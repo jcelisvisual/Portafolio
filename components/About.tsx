@@ -68,6 +68,7 @@ export default function About() {
           >
             {/* Imagen de Perfil */}
             <div className="relative mb-8 rounded-2xl overflow-hidden aspect-square max-w-md mx-auto lg:mx-0">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600"
                 alt="Juan Felipe Celis"

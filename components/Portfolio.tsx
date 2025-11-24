@@ -107,6 +107,7 @@ export default function Portfolio() {
             >
               {/* Thumbnail */}
               <div className="relative overflow-hidden rounded-xl mb-4 aspect-video bg-foreground/5">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   src={project.thumbnail}
                   alt={project.title}

@@ -54,7 +54,7 @@ export default function DemoReel() {
           {/* Instrucción de Placeholder */}
           <div className="mt-6 p-4 bg-accent/10 rounded-lg border border-accent/20">
             <p className="text-sm text-center text-foreground/70">
-              <strong>PLACEHOLDER:</strong> Reemplazar el ID "XXXXXX" en la URL del iframe con el ID real del video de Vimeo.
+              <strong>PLACEHOLDER:</strong> Reemplazar el ID &quot;XXXXXX&quot; en la URL del iframe con el ID real del video de Vimeo.
               <br />
               Formato: https://player.vimeo.com/video/[TU_VIDEO_ID]
               <br />
